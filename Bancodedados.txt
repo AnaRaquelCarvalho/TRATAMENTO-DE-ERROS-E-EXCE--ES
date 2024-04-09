@@ -1,0 +1,3 @@
+ANA; 32
+JOSE; 45
+TEREZA; 44
